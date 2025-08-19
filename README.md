@@ -17,7 +17,7 @@ A text compression system that uses Vector Quantized Variational Autoencoders (V
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/semantic-compression-vqvae.git
+git clone https://github.com/c42meitheal-collab/Semantic-Compression-with-VQ-VAE.git
 cd semantic-compression-vqvae
 pip install -r requirements.txt
 ```
